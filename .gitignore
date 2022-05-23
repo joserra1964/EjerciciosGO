@@ -1,0 +1,9 @@
+# ignorar las siguientes carpetas
+/bin
+/pkg
+# ignorar imagenes
+*.jpg
+*.png
+*.bmp
+*.jpeg
+
