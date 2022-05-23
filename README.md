@@ -5,3 +5,7 @@ Este repositorio tiene como objeto poder practicar el uso de GITHUB en el aprend
 Si te interesa, dale un star.
 
 Saludos 
+
+
+Recordamos que hay dos formas de ejecutar un go :  go build src/main.go   y después ./main, 
+y la segunda : go run src/main.go (en esta no genera un ejecutable main)
