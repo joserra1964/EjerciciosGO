@@ -6,4 +6,5 @@
 *.png
 *.bmp
 *.jpeg
-
+# ignorar el directorio inicial
+!./
