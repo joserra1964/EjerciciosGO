@@ -8,4 +8,4 @@
 *.jpeg
 # ignorar el directorio inicial
 ./
-./main
+main
