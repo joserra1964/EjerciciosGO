@@ -24,4 +24,9 @@ func main() {
 	var d bool    // por defecto le asigna false
 	fmt.Println(a, b, c, d)
 
+	// Area cuadrado
+	const baseCuadrado = 10
+	areaCuadrado := baseCuadrado * baseCuadrado
+	fmt.Println("Areaa cuadrado : ", areaCuadrado)
+
 }
