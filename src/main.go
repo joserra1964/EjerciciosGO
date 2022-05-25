@@ -17,4 +17,11 @@ func main() {
 
 	fmt.Println(base, altura, area)
 
+	// Zero values
+	var a int     // por defecto le asigna 0
+	var b float64 // por defecto le asigna 0
+	var c string  // por defecto le asigna un string vacio, no es un valor nulo
+	var d bool    // por defecto le asigna false
+	fmt.Println(a, b, c, d)
+
 }
