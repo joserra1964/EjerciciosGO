@@ -14,7 +14,7 @@ type car struct {
 	precio int
 }
 
-// estamos personalizando el método string sobre-escribiéndolo
+// estamos personalizando el método string sobre-escribiéndolo asociado al struct pc
 func (myPC pc) String() string {
 	return fmt.Sprintf("Tengo %d GB RAM, %d GB Disco y es una %s", myPC.ram, myPC.disk, myPC.brand)
 }
