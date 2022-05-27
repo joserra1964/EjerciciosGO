@@ -27,4 +27,5 @@ func main() {
 	newSlice := []int{8, 9, 10}
 	slice = append(slice, newSlice...)
 	fmt.Println(slice, len(slice), cap(slice))
+
 }
